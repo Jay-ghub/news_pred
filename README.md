@@ -76,7 +76,7 @@ For Evaluation, four things were used:
 
 ## Code reproduction steps
 
-1. Extract the zip file
+1. Clone the project
 2. Install dependencies
     - pip install -r requirements.txt
 3. Start Jupyter Notebook
