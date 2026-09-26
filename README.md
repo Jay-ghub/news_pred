@@ -80,7 +80,7 @@ For Evaluation, four things were used:
 2. Download the [Kaggle Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset/data) and place inside the "data" folder
 3. create a virtual environment with:
    - python3 -m venv /.venv
-   - Then activate with source .venv/bin/activate
+   - Then activate with "source .venv/bin/activate"
 5. Install dependencies
     - pip install -r requirements.txt
 6. Start Jupyter Notebook
