@@ -77,9 +77,13 @@ For Evaluation, four things were used:
 ## Code reproduction steps
 
 1. Clone the project
-2. Install dependencies
+2. Download the [Kaggle Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset/data) and place inside the "data" folder
+3. create a virtual environment with:
+   - python3 -m venv /.venv
+   - Then activate with source .venv/bin/activate
+5. Install dependencies
     - pip install -r requirements.txt
-3. Start Jupyter Notebook
-4. open main.ipynb
-6. Run all cells
+6. Start Jupyter Notebook
+7. open main.ipynb
+8. Run all cells
 
