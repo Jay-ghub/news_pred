@@ -77,7 +77,7 @@ For Evaluation, four things were used:
 ## Code reproduction steps
 
 1. Clone the project
-2. Download the [Kaggle Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset/data) and place inside the "data" folder
+2. Download the [Kaggle Dataset](https://www.kaggle.com/datasets/rmisra/news-category-dataset/data). Create a data folder and place the file inside the folder. 
 3. create a virtual environment with:
    - python3 -m venv /.venv
    - Then activate with "source .venv/bin/activate"
